@@ -30,3 +30,6 @@
 <a href="https://github.com/1liale/1liale/assets/38883331/1c0e9892-e7dd-4425-9163-dc58c28cce0b">
   <img src="https://github.com/1liale/1liale/assets/38883331/1c0e9892-e7dd-4425-9163-dc58c28cce0b" alt="aws-certified-cloud-practitioner" width="200" height="200">
 </a>
+<a href="https://github.com/1liale/1liale/assets/38883331/1b4e123a-e432-4670-96cb-13f0ab0ffc51">
+  <img src="https://github.com/1liale/1liale/assets/38883331/1b4e123a-e432-4670-96cb-13f0ab0ffc51" alt="aws-certified-developer-associate" width="200" height="200">
+</a>
